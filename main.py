@@ -5,8 +5,8 @@ import concurrent.futures
 from threading import Thread
 from json import JSONDecoder
 
-cores = multiprocessing.cpu_count()
-
+#cores = multiprocessing.cpu_count()
+cores = 4
 def hola_mundo():
     print("Hola Mundo")
     #time.sleep(5)
