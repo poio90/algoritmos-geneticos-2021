@@ -7,7 +7,7 @@ def mutacion_swap(self,individuo):
     mutacion_swap(self,individuo)
 
     Swapea 0 o más genes de un individuo según prob_muta.
-
+<
     Parameters
     ----------
     self : objeto GeneticoBinario

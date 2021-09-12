@@ -1,0 +1,14 @@
+100//Tamanio de la poblacion mu
+100//Cantidad de hijos (tamanio de poblacion lambda)
+500//Cantidad de generaciones
+3//Cantidad de Corridas o Ejecuciones
+0//Operador de Seleccion; 0:Torneo Binario, 1:SUS, 2:Ruleta
+1//Operador de Cruce; 0:PMX, 1:OX, 2:CX
+0.741//Probabilidad de Cruzamiento
+0//Operador de Mutacion; 0:Intercambio Reciproco, 1:Inversion; 2: Insercion; 3: Desplazamiento
+0.01//Probabilidad de Mutacion (lo recomendable es usar valores entre 0.01 y 0.1)
+1//Estrategia de Reemplazo; 0:mu + lambda, 1: mu,lambda, 2:Generacional
+1//Operador de Seleccion para Reemplazo; 0:Ruleta, 1:SUS, 2:Torneo Binario, 3:mu mejores
+1//Elitismo; 0:No, 1:Si
+0//Tipo de Problema; 0:FSSP
+tai_20_10_10.txt//Nombre del Archivo de Instancia
